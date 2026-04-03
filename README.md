@@ -81,4 +81,14 @@ Note: The crime dataset is large (>2GB), so only data from **2008–2012** is us
 
 ---
 
-## Project Structure
+## What I Learned
+- Handling and cleaning large real-world datasets
+- Making decisions about missing data and data quality
+- Extracting insights from complex datasets
+- Structuring analysis workflows for clarity and reproducibility
+
+---
+
+## Author
+Juan Andrade  
+AI & Machine Learning Student – IT-Högskolan 
