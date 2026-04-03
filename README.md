@@ -1,4 +1,4 @@
-# Chicago Crime Data Analysis
+### Chicago Crime Data Analysis (2008–2012)
 
 ## Overview
 This project analyzes crime data from Chicago between 2008 and 2012, combining crime records with census data to identify patterns, trends, and insights using Python.
